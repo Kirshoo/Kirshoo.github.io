@@ -1,0 +1,458 @@
+{
+    "metadata": {
+        "version": "1.42",
+        "last_updated": "2025-11-06T13:48:45.095840",
+        "schema": "0.0.1"
+    },
+
+    "data": [
+        [
+            {
+                "name": "Beach",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Mesa",
+                "variant": "CacusHell",
+                "note": "Tomb is open"
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Alpine",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "SnakeBeach",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Mesa",
+                "variant": "DynamiteHell",
+                "note": "Tomb is open"
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Alpine",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Mesa",
+                "variant": "CacusHell",
+                "note": "Tomb is open"
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "SnakeBeach",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Alpine",
+                "variant": "Lava",
+                "note": null
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Mesa",
+                "variant": "CacusHell",
+                "note": "Tomb is blocked"
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Alpine",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "RedBeach",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Mesa",
+                "variant": "DynamiteHell",
+                "note": "Tomb is open"
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "RedBeach",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Alpine",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "BlueBeach",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Mesa",
+                "variant": "DynamiteHell",
+                "note": "Tomb is blocked"
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "RedBeach",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Alpine",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "SnakeBeach",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Mesa",
+                "variant": "NoVariant",
+                "note": "Tomb is blocked"
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ],
+        [
+            {
+                "name": "Beach",
+                "variant": "BlueBeach",
+                "note": null
+            },
+            {
+                "name": "Roots",
+                "variant": "Redwoods Default",
+                "note": null
+            },
+            {
+                "name": "Alpine",
+                "variant": "GeyserHell",
+                "note": null
+            },
+            {
+                "name": "Caldera",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Kiln",
+                "variant": "Default",
+                "note": null
+            },
+            {
+                "name": "Peak",
+                "variant": "Default",
+                "note": null
+            }
+        ]
+    ]
+}
