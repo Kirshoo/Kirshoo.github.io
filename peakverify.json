@@ -1,0 +1,128 @@
+[
+  {
+    "guid": "com.atomic.details",
+    "name": "MoreRunDetails",
+    "version": "0.2.8",
+    "sha256": "4C231592809B39DD4CFFDF667C6742C5D59678853F792E70F4213C993BA27F26"
+  },
+  {
+    "guid": "com.borealityy.peaktextchat",
+    "name": "PeakTextChat",
+    "version": "1.3.4",
+    "sha256": "0CA889C023223CD39B4B43A6E0149D3FA72F55EAC2177608E294D1B165F8C2F6"
+  },
+  {
+    "guid": "net.catcraze777.plugins.splitsstats",
+    "name": "Splits Stats",
+    "version": "1.4.0",
+    "sha256": "8981B62327D4CDCC2E21583CCAA484C72868941C3C3309215EFD5DC6CC3CCA92"
+  },
+  {
+    "guid": "Dummy.PeakClawStallFix",
+    "name": "PeakClawStallFix",
+    "version": "1.0.2",
+    "sha256": "2CC3BA2777B6936B1278CDD8C75BE73DA1BBF82E1A21611A90407A4F8A51FB0C"
+  },
+  {
+    "guid": "com.CTNOriginals.peak.FrontDesk",
+    "name": "FrontDesk",
+    "version": "1.0.0",
+    "sha256": "5F5F227FA94EDA5CA422E62C41CF0A1EE62CD884DDF3077CFA87CD42379406C2"
+  },
+  {
+    "guid": "PEAKUnbound",
+    "name": "PeakUnbound",
+    "version": "1.4.0",
+    "sha256": "D177A1B99A6ED869CBEC999B5E1E79181A4850400ED203F0B3A9D1113729EEDE"
+  },
+  {
+    "guid": "BadgeRemover",
+    "name": "Badge Manager",
+    "version": "1.1.7",
+    "sha256": "488BDE5C59567E6D65E4FA91AA6F843B9CBCA34CDF51013F9C71B3C2B8B6A6D6"
+  },
+  {
+    "guid": "kirigiri.peak.nekogirioffline",
+    "name": "NekogiriPeakOffline",
+    "version": "1.0.0.0",
+    "sha256": "B4255E6AE699610D41132EC4D08D23AB4C8BDC7819CC8F513B1EE787527792BA"
+  },
+  {
+    "guid": "kirigiri.peak.peakversionbypass",
+    "name": "Peak Version Bypass",
+    "version": "1.0.0.1",
+    "sha256": "9EA3BC53E11E60CAF00F79BE1A73309C2291C780285940AE626F48FFBCFB6DCB"
+  },
+  {
+    "guid": "my.pahsiv.MyBananaDontHurtMe",
+    "name": "MyBananaDontHurtMe",
+    "version": "0.1.7",
+    "sha256": "49B40B17F5D24C03674CE3C59D82E58148F097381F0B1EB83631322E5AA1AC24"
+  },
+  {
+    "guid": "com.github.Kirshoo.ModVerifier",
+    "name": "ModVerifier",
+    "version": "1.1.0",
+    "sha256": "AF4DD2E6EB9C998113528B93A256B547A3EED2FDE4679E44CA07193098B4D8FC"
+  },
+  {
+    "guid": "com.github.PEAKModding.PEAKLib.ModConfig",
+    "name": "PEAKLib.ModConfig",
+    "version": "1.8.2",
+    "sha256": "BF28E6EFDC0069DF7FBEB0EEA3695D50660FDE6A138BB48D33AF3B1A28375691"
+  },
+  {
+    "guid": "com.github.PEAKModding.PEAKLib.Core",
+    "name": "PEAKLib.Core",
+    "version": "1.7.2",
+    "sha256": "B4C54FEC126FCFA6FF2BE87A82419138CF774285A40112CFF590A43F720F66A9"
+  },
+  {
+    "guid": "com.github.PEAKModding.PEAKLib.UI",
+    "name": "PEAKLib.UI",
+    "version": "1.7.2",
+    "sha256": "91F2503323EB8D3560A4843DCA282B73CD1EA420D0B2DFA40774F3655B3CEFFB"
+  },
+  {
+    "guid": "com.github.PEAKModding.SoftDependencyFix",
+    "name": "SoftDependencyFix",
+    "version": "1.0.0",
+    "sha256": "EECE00CDE9B70F6D7B43FF89D399D22F6FA1D95F5CA8630254D614AF258AA582"
+  },
+  {
+    "guid": "com.reis.peakoptimizer",
+    "name": "PeakOptimizer",
+    "version": "2.1.3",
+    "sha256": "438A0E019CCE60307B54F236E309007D317CDCD3E90C1FD12C479609939E1353"
+  },
+  {
+    "guid": "com.smckeen.morepeak",
+    "name": "MorePeak",
+    "version": "2.0.0",
+    "sha256": "0F8F26BA0DE5AB232B2CF8F3F601230CF6C5E92C03F4BCCC7167576B76B3CCE9"
+  },
+  {
+    "guid": "com.snosz.photoncustompropsutils",
+    "name": "PhotonCustomPropsUtils",
+    "version": "1.1.0",
+    "sha256": "22DC3986D6EE0495B468BBB3BCE606F953A3C894D11EB33DEDDDF230DF1D82F1"
+  },
+  {
+    "guid": "com.snosz.terrainrandomiser",
+    "name": "TerrainRandomiser",
+    "version": "1.2.0",
+    "sha256": "E963C8B58B0B28FC2732FEF3D044CCDF642788F136740153EA22D7C6D572E917"
+  },
+  {
+    "guid": "tony4twentys.quickrestart",
+    "name": "Quick Restart",
+    "version": "2.4.0",
+    "sha256": "4EF619C46A675A43E57C9AEED3728866F636C8B209F06DDE08FAE2D3534029A8"
+  },
+  {
+    "guid": "tony4twentys.Summit_to_Shore",
+    "name": "Summit to Shore",
+    "version": "1.0.0",
+    "sha256": "6AB0E9F674854A6702A7C7E3252BB3F7E4AF49755111C21445056C9476ACD003"
+  }
+]
