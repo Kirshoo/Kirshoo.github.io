@@ -124,5 +124,11 @@
     "name": "Summit to Shore",
     "version": "1.0.0",
     "sha256": "6AB0E9F674854A6702A7C7E3252BB3F7E4AF49755111C21445056C9476ACD003"
+  },
+  {
+    "guid": "com.turtledsr.peakseedpicker",
+    "name": "PeakSeedPicker",
+    "version": "1.3.0",
+    "sha256": "3BC9322A9D046D94337000A5DF0D4B95B1EF8C4C6732E70DDAE0BFD69B17346B"
   }
 ]
